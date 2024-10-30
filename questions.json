@@ -1,0 +1,222 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "In the sentence \"The bear ate honey from the beehive,\" what does \"bear\" mean?",
+    "options": [
+      "To carry",
+      "An animal",
+      "To tolerate"
+    ],
+    "correct": 1,
+    "explanation": "In this sentence, \"bear\" refers to the large, furry mammal known for eating honey. The context of eating honey from a beehive indicates we're talking about the animal, not the other meanings of \"bear\" like \"to carry\" or \"to tolerate.\""
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Choose the sentence where \"right\" means \"correct\":",
+    "options": [
+      "Turn right at the stop sign.",
+      "You got all the answers right!",
+      "He raised his right hand."
+    ],
+    "correct": 1,
+    "explanation": "In this sentence, \"right\" means \"correct\" or \"accurate.\" It's used to indicate that all the answers were correct."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What does \"tear\" mean in \"Don't tear the paper\"?",
+    "options": [
+      "To rip",
+      "A drop from your eye",
+      "To move very fast"
+    ],
+    "correct": 0,
+    "explanation": "In this context, \"tear\" means to rip or pull apart. The sentence is giving a command not to damage the paper by ripping it. This is different from the noun \"tear,\" which means a drop of liquid from your eye when you cry."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "In \"The phone started to ring,\" what does \"ring\" mean?",
+    "options": [
+      "A piece of jewellery",
+      "A circular shape",
+      "To make a sound"
+    ],
+    "correct": 2,
+    "explanation": "In this sentence, \"ring\" is being used as a verb meaning \"to make a sound,\" specifically the sound a phone makes when someone is calling. This is different from the noun \"ring,\" which can mean a piece of circular jewellery or a circular shape."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Choose the sentence where \"kind\" means \"type\":",
+    "options": [
+      "She is a very kind person.",
+      "What kind of ice cream do you like?",
+      "It was kind of you to help."
+    ],
+    "correct": 1,
+    "explanation": "In this sentence, \"kind\" means \"type\" or \"variety.\" The question is asking about the specific type or flavour of ice cream someone prefers. In the other sentences, \"kind\" is used to mean \"nice\" or \"caring.\""
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Choose the word that fits both pictures: <br><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./1.png'><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./2.png'>",
+    "options": [
+      "Light",
+      "Match",
+      "Tear"
+    ],
+    "correct": 2,
+    "explanation": "The word \"tear\" has multiple meanings that fit both pictures: In the first picture of a boy crying, \"tear\" refers to the drops of liquid that come from our eyes when we cry. In the second picture of a boy tearing paper, \"tear\" is being used as a verb meaning to rip or pull apart."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Choose the word that fits both pictures:<br><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./3.png'><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./4.png'>",
+    "options": [
+      "Bright",
+      "Watch",
+      "Ring"
+    ],
+    "correct": 1,
+    "explanation": "The word \"watch\" fits both pictures because of its multiple meanings: In the first picture of a boy watching a bird, \"watch\" is used as a verb meaning to look at or observe something carefully. In the second picture of a boy wearing a watch on his wrist, \"watch\" is used as a noun referring to a timepiece worn on the wrist."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Choose the word that fits both pictures:<br><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./5.png'><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./6.png'>",
+    "options": [
+      "Right",
+      "Bright",
+      "Ring"
+    ],
+    "correct": 2,
+    "explanation": "The word \"ring\" matches both pictures due to its different meanings: In the first picture of a circle, \"ring\" refers to a circular shape or form. In the second picture of a girl wearing a ring on her finger, \"ring\" is used as a noun meaning a piece of jewellery worn on a finger."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Choose the word that fits both pictures:<br><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./7.png'><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./8.png'>",
+    "options": [
+      "Kind",
+      "Match",
+      "Right"
+    ],
+    "correct": 1,
+    "explanation": "The word \"match\" fits both pictures because of its multiple meanings: In the first picture of a box of matchsticks, \"match\" refers to a small stick with a combustible tip used for lighting a fire. In the second picture of a football match, \"match\" means a competitive game or contest between two teams."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Choose the word that fits both pictures:<br><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./9.png'><img style='border: 1px solid black; border-radius:2rem; margin-left:0.5rem' width='130px' src='./10.png'>",
+    "options": [
+      "Bright",
+      "Kind",
+      "Light"
+    ],
+    "correct": 0,
+    "explanation": "The word \"bright\" matches both pictures due to its different meanings: In the first picture of the sun shining brightly, \"bright\" is used in its literal sense, meaning giving off a lot of light or shining intensely. In the second picture of a boy holding an exam sheet with an A+ grade, \"bright\" is used figuratively to mean intelligent or clever."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What does \"bright\" mean in \"She had a bright idea\"?",
+    "options": [
+      "Shiny",
+      "Intelligent",
+      "Colourful"
+    ],
+    "correct": 1,
+    "explanation": "In this context, \"bright\" is used to desrcibe an idea, meaning it's clever or intelligent. This is a figurative use of \"bright,\" different from its literal meaning of \"giving off a lot of light\" or \"shiny.\""
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "In \"I'll watch the baby while you're out,\" what does \"watch\" mean?",
+    "options": [
+      "A wrist clock",
+      "To clean",
+      "To take care of"
+    ],
+    "correct": 2,
+    "explanation": "In this sentence, \"watch\" means to take care of or look after the baby. This usage implies more than just looking at the baby; it involves supervision and care."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the sentence where \"light\" means \"not heavy\":",
+    "options": [
+      "Turn on the light, please.",
+      "The feather is very light.",
+      "The sun gives us light."
+    ],
+    "correct": 1,
+    "explanation": "In this sentence, \"light\" is used to desrcibe the weight of the feather, meaning it's not heavy."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "In \"The bear could barely bear the weight,\" what does the first \"bear\" mean?",
+    "options": [
+      "An animal",
+      "To carry",
+      "To tolerate"
+    ],
+    "correct": 0,
+    "explanation": "In this sentence, the first \"bear\" refers to the animal. The sentence is using wordplay with \"bear\" (the animal) and \"bear\" (to carry or tolerate). The second \"bear\" means \"to carry\" or \"to tolerate,\" but the question is specifically asking about the first usage."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "In \"Can you ring the doorbell?\" what does \"ring\" mean?",
+    "options": [
+      "To put a ring on",
+      "To make a sound",
+      "A circular shape"
+    ],
+    "correct": 1,
+    "explanation": "In this sentence, \"ring\" is a verb meaning to make the doorbell produce a sound. This is different from the noun \"ring\" (a piece of jewellery or a circular shape)."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the sentence where \"kind\" means \"nice\":",
+    "options": [
+      "What kind of music do you like?",
+      "This is a new kind of technology.",
+      "It was very kind of you to help."
+    ],
+    "correct": 2,
+    "explanation": "In this sentence, \"kind\" is used to mean \"nice\" or \"considerate.\" It desrcibes the helpful action as being caring or thoughtful. In the other sentences, \"kind\" is used to mean \"type\" or \"variety.\""
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "What does \"bright\" mean in \"The sun is very bright today\"?",
+    "options": [
+      "Intelligent",
+      "Happy",
+      "Giving off a lot of light"
+    ],
+    "correct": 2,
+    "explanation": "In this context, \"bright\" is used in its literal sense, desrcibing the sun as giving off a lot of light. This is different from its figurative uses like \"intelligent\" (bright idea) or \"happy\" (bright mood)."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What does \"match\" mean in \"The blue shirt matches your eyes\"?",
+    "options": [
+      "To compete against",
+      "To be similar or go well together",
+      "A stick for making fire"
+    ],
+    "correct": 1,
+    "explanation": "In this context, \"match\" means to be similar to or complement well. The sentence is saying that the blue shirt goes well with or complements the colour of the person's eyes. This is different from the noun \"match\" (a stick for making fire) or the verb \"match\" meaning to compete."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the sentence where \"bear\" means \"to tolerate\":",
+    "options": [
+      "We saw a bear in the forest.",
+      "I can't bear this noise anymore.",
+      "The tree will bear fruit soon."
+    ],
+    "correct": 1,
+    "explanation": "In this sentence, \"bear\" means to tolerate or endure. The speaker is expressing that they can no longer tolerate or put up with the noise. This is different from the noun \"bear\" (an animal), or other verb uses like \"to carry\" or \"to produce.\""
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What does \"tear\" mean in \"She wiped a tear from her eye\"?",
+    "options": [
+      "A drop of liquid from the eye",
+      "To rip",
+      "To move very fast"
+    ],
+    "correct": 0,
+    "explanation": "In this context, \"tear\" is a noun referring to a drop of liquid that comes from the eye, usually when someone is crying. This is different from the verb \"to tear\" (meaning to rip something) or the noun \"tear\" meaning a rip in the fabric."
+  }
+]
